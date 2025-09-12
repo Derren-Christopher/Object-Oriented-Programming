@@ -1,3 +1,4 @@
+//PRAKTIKUM 1 NO. 3
 import java.lang.System;
 import java.util.Scanner;
 
@@ -47,4 +48,5 @@ public class WarungKebin {
 
         sc.close();
     }
+
 }

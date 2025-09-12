@@ -1,0 +1,35 @@
+Derren Christopher Boenardi - 18224040
+Latihan Konsep Objek
+
+Atribut: sesuatu yang dimiliki oleh objek tersebut
+Method: biasanya mengubah atribut objek
+
+Objek_1: Mobil
+Atribut_1: 
+- Warna
+- Kecepatan
+- Bensin
+Method_1:
+- Ganti Warna (Mengubah warna)
+- Mempercepat (Menambah kecepatan) / Memperlambat (Mengurangi kecepatan)
+- Mengisi bensin (Menambah bensin)
+
+Objek_2: Lampu
+Atribut_2:
+- Keadaan lampu (nyala/mati)
+- Kecerahan (Brightness)
+- Warna
+Method_2:
+- Menyalakan/Mematikan lampu
+- Mengatur kecerahan
+- Mengatur warna
+
+Objek_3: Handphone
+Atribut_3:
+- Battery
+- Volume suara
+- Kecerahan (brightness)
+Method_3:
+- Charge battery (Mengisi daya baterai)
+- Mengatur volume suara (Mengeras/Mengecil)
+- Mengatur kecerahan

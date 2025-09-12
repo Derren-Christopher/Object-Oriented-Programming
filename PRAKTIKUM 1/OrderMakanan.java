@@ -1,3 +1,4 @@
+//PRAKTIKUM 1 NO. 1
 public class OrderMakanan {
     private String namaMakanan;
     private int countMakanan;

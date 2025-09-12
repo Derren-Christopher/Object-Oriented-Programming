@@ -1,3 +1,4 @@
+//PRAKTIKUM 1 NO. 2
 public class Pembeli {
     private String namaPembeli;
     private int nomorMeja;
@@ -78,4 +79,5 @@ public class Pembeli {
         }  
         return false;  // TODO: implementasi perbandingan saldo vs order.getTotalHarga()
     }
+
 }
